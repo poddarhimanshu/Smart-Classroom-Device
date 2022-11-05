@@ -51,3 +51,7 @@ and white light will turn off.
 #### Working of the Device 
 
 You can find the video of the working of the device here : https://www.youtube.com/watch?v=1cCko9BJsG8
+
+#### Code Files
+
+The main code file for the project can be found here : Smart Classroom\kalpana.ino
