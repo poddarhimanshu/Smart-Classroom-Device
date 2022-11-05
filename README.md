@@ -38,7 +38,7 @@ So for demonstration purpose in the video you can see we are using the hot light
 so when we brought the hot light bulb closer to our sensor so that temperature keeps increasing and when we reach a certain threshold, 
 the fans(which is denoted by the white bulb here) will turn off.
 
-#### Motion Sensing
+### Motion Sensing
 Now sometimes, we have labs or seminars or combined classes in the hall due to which we might need to leave the class during the class hours. 
 And what if someone forgets to turn off the loads during that time?
 
@@ -48,10 +48,10 @@ the all the loads in the room.
 To demonstrate this in the video, we have set the timer to 15seconds, and if in 30s it does not find any movement the lights and fans represented by our yellow light
 and white light will turn off.
 
-#### Working of the Device 
+## Working of the Device 
 
 You can find the video of the working of the device here : https://www.youtube.com/watch?v=1cCko9BJsG8
 
-#### Code Files
+## Code Files
 
 The main code file for the project can be found here : Smart Classroom\kalpana.ino
