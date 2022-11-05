@@ -47,3 +47,7 @@ the all the loads in the room.
 
 To demonstrate this in the video, we have set the timer to 15seconds, and if in 30s it does not find any movement the lights and fans represented by our yellow light
 and white light will turn off.
+
+#### Working of the Device 
+
+You can find the video of the working of the device here : https://www.youtube.com/watch?v=1cCko9BJsG8
